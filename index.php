@@ -150,8 +150,8 @@
       <div class="row">
         <!-- Heading -->
         <div class="col-md-12 text-center">
-          <h1 class="section-title aqua-heading">Small Pricing Table</h1>
-          <p>This is a very basic style Small pricing table, made with less.</p>
+          <h1 class="section-title aqua-heading">Live Count</h1>
+          <p>Following is the live count of inventory items.</p>
         </div>
         <!-- Pricing Table Area -->
         <div class="gg-pricing-table small-table col-md-12 mt-50">
@@ -160,16 +160,16 @@
             <div class="single-pricing-table text-center clearfix">
               <!-- Price -->
               <div class="price">
-                <span>$69</span>
+                <span>22</span>
               </div>
               <!-- Heading -->
               <div class="pricing-table-heading">
-                <h2>Origami</h2>
-                <p>Space and light and order, those are<br>the things that men.</p>
+                <h2>Quality 1</h2>
+                <p>Last new entry was added: <br>22 july 2018</p>
               </div>
               <!-- Button -->
               <div class="pricing-button">
-                <a href="#" class="btn btn-pricing"><i class="fa fa-cart-plus"></i> Purchase</a>
+                <a href="#" class="btn btn-pricing"><i class="fa fa-cart-plus"></i> Add a new entry</a>
               </div>
             </div>
           </div>
@@ -178,16 +178,16 @@
             <div class="single-pricing-table text-center clearfix">
               <!-- Price -->
               <div class="price">
-                <span>$89</span>
+                <span>23</span>
               </div>
               <!-- Heading -->
               <div class="pricing-table-heading">
-                <h2>Frammer</h2>
-                <p>Space and light and order, those are<br>the things that men.</p>
+                <h2>Quality 2</h2>
+                <p>Last new entry was added: <br>23 july 2018</p>
               </div>
               <!-- Button -->
               <div class="pricing-button">
-                <a href="#" class="btn btn-pricing"><i class="fa fa-cart-plus"></i> Purchase</a>
+                <a href="#" class="btn btn-pricing"><i class="fa fa-cart-plus"></i> Add a new entry</a>
               </div>
             </div>
           </div>
@@ -196,23 +196,20 @@
             <div class="single-pricing-table text-center clearfix">
               <!-- Price -->
               <div class="price">
-                <span>$99</span>
+                <span>24</span>
               </div>
               <!-- Heading -->
               <div class="pricing-table-heading">
-                <h2>Trimmer</h2>
-                <p>Space and light and order, those are<br>the things that men.</p>
+                <h2>Quality 3</h2>
+                <p>Last new entry was added: <br>24 july 2018</p>
               </div>
               <!-- Button -->
               <div class="pricing-button">
-                <a href="#" class="btn btn-pricing"><i class="fa fa-cart-plus"></i> Purchase</a>
+                <a href="#" class="btn btn-pricing"><i class="fa fa-cart-plus"></i> Add a new entry</a>
               </div>
             </div>
           </div>
-          <!-- Credits -->
-          <div class="design-credit text-center col-md-12 mt-40">
-            <p>This pricing table was originaly designed by <a href="https://dribbble.com/shots/2316185-Slide-53" target="_blank">Vladimir Kudinov</a></p>
-          </div>
+ 
         </div>
       </div>
     </div>
